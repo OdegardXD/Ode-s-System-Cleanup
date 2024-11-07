@@ -1,0 +1,10 @@
+Ode's System Cleanup
+
+A tool where you can delete temp files, Run some diagnostics and generally give your windows system a little cleanup.
+
+Features:
+Delete all temp files
+Run Windows Memory Diagnostic
+Run some diagnostic tools like "SFC /Scannow" and "CHKDSK"
+
+Heyo. This is just a small python script that im working on. This is my first script that i will actively be working on and will be releasing to the public. This is mostly written by me. Some of it is written by ChatGPT/Google Gemini. If you have any tips on stuff i can improve on the script then LMK by opening a Issue or contacting me on discord (OdegardXD)
